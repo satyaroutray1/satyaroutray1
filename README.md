@@ -6,7 +6,9 @@
 - 👯 I’m looking to collaborate on ...exciting Flutter projects to bring ideas to life.
 - 🤔 I’m looking for help with ...staying updated on the latest Flutter trends and best practices.
 - 💬 Ask me about ...Anything
-- 📫 How to reach me: ...sroutraykec@gmail.com
+- 📫 How to reach me: ...savvydeveloper123@gmail.com
 - 😄 Pronouns: ...He/Him
+
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=satyaroutray)](https://git.io/streak-stats)
 
 
