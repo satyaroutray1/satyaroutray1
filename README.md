@@ -10,7 +10,6 @@
 - 😄 Pronouns: ...He/Him
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=satyaroutray1&theme=solarized-dark&type=png&stroke=EB5454)](https://git.io/streak-stats)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=satyaroutray1)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satyaroutray1&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=satyaroutray1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
