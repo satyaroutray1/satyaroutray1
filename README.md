@@ -11,4 +11,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=satyaroutray1&theme=solarized-dark&type=png&stroke=EB5454)](https://git.io/streak-stats)
 
-![](https://komarev.com/ghpvc/?username=satyaroutray1&label=PROFILE+VIEWS)
+[![trophy](https://github-profile-trophy.vercel.app/?username=satyaroutray1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
