@@ -9,6 +9,6 @@
 - 📫 How to reach me: ...savvydeveloper123@gmail.com
 - 😄 Pronouns: ...He/Him
 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=satyaroutray)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=satyaroutray1&theme=radical)](https://git.io/streak-stats)
 
 
